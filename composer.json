@@ -5,7 +5,8 @@
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
     "require": {
-        "composer/installers": "~1.0"
+        "composer/installers": "~1.0",
+        "mustache/mustache": "~2.6"
     },
     "repositories": [
         {
