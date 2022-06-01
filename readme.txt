@@ -1,3 +1,6 @@
+May 2022
+Hosted version forked from original http://github.com/scribu/wp-posts-to-posts/ while plugin is temporarily down awaiting updates.
+
 === Posts 2 Posts ===
 
 Contributors: scribu, ciobi, ayecode, stiofansisland
