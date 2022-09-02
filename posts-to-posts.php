@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Posts 2 Posts
-Description: Create many-to-many relationships between all types of posts.
+Plugin Name: GSD Posts 2 Posts
+Description: Forked version of the Posts 2 Posts plugin by scribu
 Version: 1.6.6
 Author: scribu
 Author URI: http://scribu.net/
